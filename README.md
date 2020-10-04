@@ -12,9 +12,9 @@
 
 ```css
 @AboutMe{
-	Programming Languages : C , C++ , JAVA , HTML , XML , CSS
-	Interesd in : Android Development
-	Currently working on : Android/Java 
+	Programming Languages : "C" , "C++" , "JAVA" , "HTML" , "XML" , "CSS"
+	Interesd in : "Android Development"
+	Currently working on : "Android/Java" 
 }
 
 ```
