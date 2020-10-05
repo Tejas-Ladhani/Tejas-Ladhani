@@ -20,7 +20,7 @@
 ```
 
 <br>
-<center><em><b>I love to code !!</b></em></center>
+
 ---
 
 <a href="https://github.com/Tejas-Ladhani">
