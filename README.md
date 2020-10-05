@@ -27,11 +27,13 @@
 
 ---
 
-![Tejas' github stats](https://github-readme-stats.vercel.app/api?username=Tejas-Ladhani&show_icons=true&theme=light)
+<a href="https://github.com/Tejas-Ladhani">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tejas-Ladhani&show_icons=true&theme=light&line_height=27" alt="Tejas'github stats" height="220px" />
 </a>
 <a href="https://github.com/Tejas-Ladhani">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Ladhani&theme=light&hide_langs_below=1" height="220px"/>
 </a>
 
+---
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Tejas-Ladhani.Tejas-Ladhani)                                 
 
