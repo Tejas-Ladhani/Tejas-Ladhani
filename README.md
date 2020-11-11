@@ -16,7 +16,7 @@
 ```css
 @AboutMe{
 
-	Programming Languages :	"C", "C++", "JAVA", "HTML", "XML", "CSS"
+	Languages :	"C", "C++", "JAVA", "HTML", "XML", "CSS"
 	Interested in : "Android Development"
 	Currently working on : "Android/Java" 
 }
