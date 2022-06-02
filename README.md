@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tejas Ladhani</h1>
-<h3 align="center">A passionate developer and learner from India</h3>
+<!-- <h3 align="center">A passionate developer and learner from India</h3> -->
 
 - 👔 GitHub Extern & SWE Intern @symbl.ai
 - 🏗 DevOps Trainee at Motorola Solutions
