@@ -4,8 +4,8 @@
 
 - 🏗 Intern @ Motorola Solutions
 - 👔 GitHub Extern'22 & SWE Intern @symbl.ai
-- 👨‍💻 You can check my Portfolio  at [https://tejas-ladhani.github.io/Tejas.Ladhani/](https://tejas-ladhani.github.io/Tejas.Ladhani/)
-- 📝 I regularly write articles on [https://medium.com/@tejasWrites](https://medium.com/@tejasWrites)
+- 👨‍💻 You can check my Portfolio  at **[https://tejas-ladhani.github.io/Tejas.Ladhani/](https://tejas-ladhani.github.io/Tejas.Ladhani/)**
+- 📝 I regularly write articles on **[https://tejasWrites.medium.com](https://tejasWrites.medium.com)**
 - 📫 How to reach me **contact.tejasladhani@gmail.com**
 
 
