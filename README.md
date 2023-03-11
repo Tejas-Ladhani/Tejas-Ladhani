@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Ladhani</h1>
 <!-- <h3 align="center">A passionate developer and learner from India</h3> -->
 
-- 🏗 Intern @ Motorola Solutions
+- 🏗 SDE @ Motorola Solutions
 - 👔 GitHub Extern'22 & SWE Intern @symbl.ai
 - 👨‍💻 You can check my Portfolio  at **[https://tejas-ladhani.github.io/Tejas.Ladhani/](https://tejas-ladhani.github.io/Tejas.Ladhani/)**
 - 📝 I regularly write articles on **[https://tejasWrites.medium.com](https://tejasWrites.medium.com)**
