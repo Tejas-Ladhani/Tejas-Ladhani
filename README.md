@@ -1,27 +1,27 @@
+# Hey, I'm Tejas 👋
 
-<h1 align="center">Hi 👋, I'm Tejas Ladhani</h1>
-<!-- <h3 align="center">A passionate developer and learner from India</h3> -->
+> I build software where the stakes are real — systems used by first responders and public safety agencies, where downtime isn't just an incident and a broken auth flow isn't just a UX bug.
 
-- 🏗 SDE @ Motorola Solutions
-- 👔 GitHub Extern'22 & SWE Intern @symbl.ai
-- 👨‍💻 You can check my Portfolio  at **[https://tejas-ladhani.github.io/Tejas.Ladhani/](https://tejas-ladhani.github.io/Tejas.Ladhani/)**
-- 📝 I regularly write articles on **[https://tejasWrites.medium.com](https://tejasWrites.medium.com)**
-- 📫 How to reach me **contact.tejasladhani@gmail.com**
+I work at the intersection of **Agentic AI**, **Identity & Security**, and **Full Stack Engineering**. Currently deep in the MCP and agentic AI space, designing full agentic stacks and rethinking how AI agents should be secured and trusted in enterprise environments.
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tejs_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejs_here" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tejas-ladhani-81ba82127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas-ladhani-81ba82127" height="30" width="40" /></a>
-<a href="https://medium.com/@tejaswrites" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tejaswrites" height="30" width="40" /></a>
-</p>
+## 🔭 What I'm working on
 
+- 🤖 Building a **greenfield agentic AI assistant** for public safety - full stack from MCP server + orchestrator client to conversational UI
+- 🔐 Leading technical design of **FIDO-based MFA**, phishing-resistant auth for enterprise
+- 🎓 Mentoring grad students at **UTD** on MCP & Agentic AI workflows
+---
 
-<h3 align="left">📈 My GitHub Stats</h3>
+## 🧠 What I care about
 
+- AI agents that are **secure, scoped, and trusted** - not just capable
+- Knowing **why something should or shouldn't be built** as much as how
+- Building in the open and giving back to the community that shapes this technology
 
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Tejas-Ladhani&show_icons=true&theme=gotham" alt="Tejas-Ladhani" />  
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Ladhani&layout=compact&show_icons=true&theme=gotham&hide=jupyter%20notebook" alt="Tejas-Ladhani" />
-  <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=Tejas-Ladhani&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="streak-Tejas-Ladhani" />
-</div>
+---
+## 🤝 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-ladhani/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@tejasladhani)
+
